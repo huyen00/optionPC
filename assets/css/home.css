@@ -1,0 +1,113 @@
+.row{
+    padding:0;
+    margin :0;
+
+}
+.image-gianhang{
+    position: relative;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+    /* position: relative; */
+}
+
+.logo{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+}
+.your-class{
+    position: absolute;
+    width: 140PX;
+    height:100%;
+
+
+}
+.autoplay {
+    position: absolute;
+    width: 140PX;
+    height: 100%;
+}
+button{
+    display: none !important;
+}
+.colum{
+  
+        top: 6%;
+        position: relative;
+        width: 100%;
+        height: 6%;
+}
+.left{
+    top: 7%;
+    position: relative;
+    width: 100%;
+    height:100%;
+    left :15%;
+}
+.right{
+    left :27%;
+}
+.logo1{
+    height: 100%;
+    width: auto;
+}
+.item{
+    width:80px;
+}
+.slick-list{
+    height:100%;
+}
+.slick-track{
+    height:100%;
+}
+.hang1{
+  
+}
+.hang2{
+    top:10%;
+}
+.hang3{
+    top:12%;
+}
+.hang4{
+    top:14%;
+}
+.hang5{
+    top:16%;
+    height: 5%;
+}
+.img-logo1{
+    /* height:100%; */
+    /* width:100%; */
+    top:4;
+    height: 100%;
+    width: auto;
+}
+.item1{
+    width:100px
+}
+.blank{
+    width:240px;
+    left:-3%;
+}
+.left5{
+    left:17%;
+}
+.left4{
+    left:16%;
+}
+.right4{
+    left:28%;
+}
+.gif{
+    position: absolute;
+    top:0;
+    justify-content: center;
+    margin: auto;
+    left:30%;
+    top:5%;
+}

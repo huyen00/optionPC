@@ -1,0 +1,95 @@
+.option4{
+    top:0;
+    left:0;
+    right:0;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height:100%;
+}
+.logo-option4{
+    top:4%;
+    position: absolute;
+    width:100%;
+    height:42%;
+}
+    .left{
+        width:100%;
+        height:100%;
+      left:12.8%;
+    }
+    .left img{
+        width:56%;
+        height:100%;
+    }
+    .col-md-3 ,.col-md-6{
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+    .right{
+       
+        width:100%;
+        height:100%;
+      left:-5px;
+    }
+    .right img{
+       width:56%;
+        height:100%;
+        
+     } 
+     .brand{
+        width:80%;
+        height:95%;
+        left: 6%;
+    }
+    .brand img{
+        width:80%;
+        height:100%;
+       
+    }
+
+
+
+@media only screen and (max-width:739px){
+    .left{
+        width:25% !important;
+        left: 16%;
+        height:100%;
+    }
+    .right{
+        width:25% !important;
+        height:100%;
+        left: 3%;
+    }
+    .brand{
+        width:50% !important;
+        height:100%;
+        left: 9%;
+    }
+}
+@media only screen and (min-width:740px) and (max-width:1023px){
+    .left{
+        width:100%;
+        height:100%;
+      left:14%;
+    }
+    .left img{
+        width:56%;
+        height:100%;
+    }
+    .right{
+   
+        width:100%;
+        height:100%;
+      left:1%;
+    }
+    .right img{
+       width:56%;
+        height:100%;/* left:1px; */
+    }
+    .brand{
+        width:80%;
+        height:100%;
+        left: 7%;
+    }
+}
